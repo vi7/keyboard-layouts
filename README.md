@@ -14,7 +14,8 @@ Usage
 -----
 
 1. Copy layout bundle from [layouts](./layouts) to `~/Library/Keyboard\ Layouts` on your macOS
-2. Go to ** > System Preferences > Keyboard > Input Sources**, click `+` under the list of input sources
+2. Reboot macOS
+3. Go to ** > System Preferences > Keyboard > Input Sources**, click `+` under the list of input sources
    New layout will be available there
 
 Layouts description
